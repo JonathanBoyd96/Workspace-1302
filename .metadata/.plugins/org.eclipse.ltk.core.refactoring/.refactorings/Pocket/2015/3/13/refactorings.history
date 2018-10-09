@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;Pocket&apos;&#x0A;- Original project: &apos;Pocket&apos;&#x0A;- Original elements:&#x0A;     NoSuchCoin.java&#x0A;     Pocket.java&#x0A;     PocketMain.java" description="Delete elements" element1="/src&lt;{Pocket.java" element2="/src&lt;{PocketMain.java" element3="/src&lt;{NoSuchCoin.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1427147732522" subPackages="false" version="1.0"/>
+</session>
